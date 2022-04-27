@@ -1,4 +1,4 @@
-<img src="https://www.xtrafondos.com/descargar.php?id=3183&resolucion=1280x720" alt="heroku" width="100%" height="30%"/>
+<img src="https://fondosmil.com/fondo/11760.jpg" alt="portada" width="100%" height="30%"/>
 
 <h1 align="center">Hi 👋, I'm Leandro Verón</h1>
 <h3 align="center">I am a passionate software developer, I am a Full Stack Web Developer and a video game systems engineering student</h3>
